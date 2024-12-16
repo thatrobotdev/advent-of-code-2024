@@ -1,0 +1,5 @@
+{
+    "deno.enable": true,
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.editor.enableCodeActions": false
+}
